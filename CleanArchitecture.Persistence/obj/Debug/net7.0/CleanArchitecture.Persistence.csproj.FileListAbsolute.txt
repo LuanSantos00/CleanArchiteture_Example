@@ -1,0 +1,15 @@
+C:\Users\luan.santos\Desktop\Estudos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net7.0\CleanArchitecture.Persistence.deps.json
+C:\Users\luan.santos\Desktop\Estudos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net7.0\CleanArchitecture.Persistence.dll
+C:\Users\luan.santos\Desktop\Estudos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net7.0\CleanArchitecture.Persistence.pdb
+C:\Users\luan.santos\Desktop\Estudos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net7.0\CleanArchitecture.Domain.dll
+C:\Users\luan.santos\Desktop\Estudos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net7.0\CleanArchitecture.Domain.pdb
+C:\Users\luan.santos\Desktop\Estudos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.csproj.AssemblyReference.cache
+C:\Users\luan.santos\Desktop\Estudos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.santos\Desktop\Estudos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.AssemblyInfoInputs.cache
+C:\Users\luan.santos\Desktop\Estudos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.AssemblyInfo.cs
+C:\Users\luan.santos\Desktop\Estudos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\luan.santos\Desktop\Estudos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.csproj.CopyComplete
+C:\Users\luan.santos\Desktop\Estudos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.dll
+C:\Users\luan.santos\Desktop\Estudos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\refint\CleanArchitecture.Persistence.dll
+C:\Users\luan.santos\Desktop\Estudos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.pdb
+C:\Users\luan.santos\Desktop\Estudos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\ref\CleanArchitecture.Persistence.dll

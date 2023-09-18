@@ -11,15 +11,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentatio
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{56FC70B7-5202-4863-8B28-9EBDCEB1AA6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Application", "CleanArchitecture.Application\CleanArchitecture.Application.csproj", "{3CD0FDA5-620A-448B-B74C-B32A6C5ABD17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.Application", "CleanArchitecture.Application\CleanArchitecture.Application.csproj", "{3CD0FDA5-620A-448B-B74C-B32A6C5ABD17}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AFF362C2-DA12-41DA-819C-B705247DEA8D} = {AFF362C2-DA12-41DA-819C-B705247DEA8D}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Domain", "CleanArchitecture.Domain\CleanArchitecture.Domain.csproj", "{AFF362C2-DA12-41DA-819C-B705247DEA8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.Domain", "CleanArchitecture.Domain\CleanArchitecture.Domain.csproj", "{AFF362C2-DA12-41DA-819C-B705247DEA8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Persistence", "CleanArchitecture.Persistence\CleanArchitecture.Persistence.csproj", "{632A579D-3FFD-4360-B815-01830E6102BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.Persistence", "CleanArchitecture.Persistence\CleanArchitecture.Persistence.csproj", "{632A579D-3FFD-4360-B815-01830E6102BE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3CD0FDA5-620A-448B-B74C-B32A6C5ABD17} = {3CD0FDA5-620A-448B-B74C-B32A6C5ABD17}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Tests", "CleanArchitecture.UnitTest\CleanArchitecture.Tests.csproj", "{4641452E-5630-4540-9451-12D56BE8174B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.Tests", "CleanArchitecture.UnitTest\CleanArchitecture.Tests.csproj", "{4641452E-5630-4540-9451-12D56BE8174B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.WebAPI", "CleanArchitecture.WebAPI\CleanArchitecture.WebAPI.csproj", "{0C2DF006-F8A3-43CE-B685-B681F15EF763}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.WebAPI", "CleanArchitecture.WebAPI\CleanArchitecture.WebAPI.csproj", "{0C2DF006-F8A3-43CE-B685-B681F15EF763}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
