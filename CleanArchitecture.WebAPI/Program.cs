@@ -1,3 +1,6 @@
+using CleanArchitecture.Persistence.Context;
+using CleanArchitecture.Persistence;
+using CleanArchitecture.Application.Services;
 
 namespace CleanArchitecture.WebAPI
 {
@@ -7,6 +10,9 @@ namespace CleanArchitecture.WebAPI
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            builder.Services.ConfigurePersistenceApp(builder.Configuration);
+            builder.Services.ConfigureApplicationApp();
+
             // Add services to the container.
 
             builder.Services.AddControllers();
@@ -15,6 +21,8 @@ namespace CleanArchitecture.WebAPI
             builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
+
+            CreateDatabase(app);
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
@@ -31,6 +39,13 @@ namespace CleanArchitecture.WebAPI
             app.MapControllers();
 
             app.Run();
+        }
+
+        private static void CreateDatabase(WebApplication app)
+        {
+            var serviceScope = app.Services.CreateScope();
+            var dataContext = serviceScope.ServiceProvider.GetService<AppDbContext>();
+            dataContext?.Database.EnsureCreated();
         }
     }
 }

@@ -13,3 +13,5 @@ C:\Users\luan.santos\Desktop\Estudos\CleanArchitecture\CleanArchitecture\CleanAr
 C:\Users\luan.santos\Desktop\Estudos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\refint\CleanArchitecture.Persistence.dll
 C:\Users\luan.santos\Desktop\Estudos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.pdb
 C:\Users\luan.santos\Desktop\Estudos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\ref\CleanArchitecture.Persistence.dll
+C:\Users\luan.santos\Desktop\Estudos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net7.0\CleanArchitecture.Application.dll
+C:\Users\luan.santos\Desktop\Estudos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net7.0\CleanArchitecture.Application.pdb

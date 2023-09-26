@@ -1,9 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "XF9a4D5UMGpComjfe/UPxafdrmm2fZUu9KXFcP86TWDsqRTf1dvet24aFHmBjqrGIAb267dopZwXWVXkSDtDDw==",
+  "dgSpecHash": "y01uINte5RVtbnPuOZ3RdBqeTgMwH8AUJFwY4ldx2RcqYBUXcqX/hLWvfFmnnAkvTJ9XWTXcUppHU7KQBJz9IQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\luan.santos\\Desktop\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\luan.santos\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\luan.santos\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\luan.santos\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\luan.santos\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
+    "C:\\Users\\luan.santos\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\luan.santos\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\luan.santos\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\luan.santos\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.11\\microsoft.data.sqlite.core.7.0.11.nupkg.sha512",
     "C:\\Users\\luan.santos\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\luan.santos\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",

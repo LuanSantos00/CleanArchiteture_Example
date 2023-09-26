@@ -26,6 +26,9 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.Tests", "CleanArchitecture.UnitTest\CleanArchitecture.Tests.csproj", "{4641452E-5630-4540-9451-12D56BE8174B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.WebAPI", "CleanArchitecture.WebAPI\CleanArchitecture.WebAPI.csproj", "{0C2DF006-F8A3-43CE-B685-B681F15EF763}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3CD0FDA5-620A-448B-B74C-B32A6C5ABD17} = {3CD0FDA5-620A-448B-B74C-B32A6C5ABD17}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
