@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v7.0": {
       "CleanArchitecture.WebAPI/1.0.0": {
         "dependencies": {
+          "CleanArchitecture.Application": "1.0.0",
           "CleanArchitecture.Persistence": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "7.0.0",
           "Swashbuckle.AspNetCore": "6.4.0"

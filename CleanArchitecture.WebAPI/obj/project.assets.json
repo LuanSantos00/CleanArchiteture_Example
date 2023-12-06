@@ -1903,6 +1903,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "CleanArchitecture.Application >= 1.0.0",
       "CleanArchitecture.Persistence >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
@@ -1939,6 +1940,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\Users\\luan.santos\\Desktop\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+              "projectPath": "C:\\Users\\luan.santos\\Desktop\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
+            },
             "C:\\Users\\luan.santos\\Desktop\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj": {
               "projectPath": "C:\\Users\\luan.santos\\Desktop\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj"
             }

@@ -1,6 +1,7 @@
 using CleanArchitecture.Persistence.Context;
 using CleanArchitecture.Persistence;
 using CleanArchitecture.Application.Services;
+using CleanArchitecture.WebAPI.Extensions;
 
 namespace CleanArchitecture.WebAPI
 {
@@ -12,6 +13,7 @@ namespace CleanArchitecture.WebAPI
 
             builder.Services.ConfigurePersistenceApp(builder.Configuration);
             builder.Services.ConfigureApplicationApp();
+            builder.Services.ConfigureCorsPolicy();
 
             // Add services to the container.
 
